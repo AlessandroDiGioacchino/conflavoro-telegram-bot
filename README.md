@@ -163,3 +163,8 @@ Alessandro Di Gioacchino
 
 # 📄 Licenza
 MIT License - vedi file `LICENSE` per dettagli.
+
+---
+
+_Questo progetto è stato sviluppato come dimostrazione pratica di competenze in
+automazione AI, containerizzazione e integrazione API._
