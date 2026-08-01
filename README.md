@@ -37,7 +37,7 @@ Dimostrare la capacità di costruire un'automazione AI end-to-end:
 - **OpenRouter** &nbsp; API gateway per modelli LLM open-source (gratuiti)
 - **Telegram bot API** &nbsp; Interfaccia utente conversazionale
 
-## 🚀 Setup Rapido
+## 🚀 Setup rapido
 ### Prerequisiti
 - Docker e Docker Compose installati
 - Account Telegram
@@ -157,7 +157,7 @@ Il bot è stato testato con:
 - CI/CD con GitHub Actions per test automatici
 
 # 👤 Autore
-Alessandro Di Gioacchino
+Alessandro Di Gioacchino  
 [LinkedIn](https://www.linkedin.com/in/alessandrodigioacchino/) |
 [GitHub](https://github.com/AlessandroDiGioacchino)
 
