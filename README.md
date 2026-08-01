@@ -3,7 +3,11 @@ Assistente conversazionale Telegram per rispondere a domande su documenti
 istituzionali, sviluppato con **n8n**, **Docker** e **LLM open-source**
 via OpenRouter.
 
-<!-- ![Bot Demo](screenshots/telegram-conversation.png) -->
+<details>
+    <summary>Conversazione demo</summary>
+    
+![Bot Demo](images/telegram-conversation.png)
+</details>
 
 ## 🎯 Obiettivo
 Dimostrare la capacità di costruire un'automazione IA end-to-end:
