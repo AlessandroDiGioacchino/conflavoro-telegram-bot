@@ -1,4 +1,4 @@
-# 🤖 Conflavoro AI assistant
+# 🤖 Agente IA Conflavoro
 Assistente conversazionale Telegram per rispondere a domande su documenti
 istituzionali, sviluppato con **n8n**, **Docker** e **LLM open-source**
 via OpenRouter.
@@ -6,7 +6,7 @@ via OpenRouter.
 <!-- ![Bot Demo](screenshots/telegram-conversation.png) -->
 
 ## 🎯 Obiettivo
-Dimostrare la capacità di costruire un'automazione AI end-to-end:
+Dimostrare la capacità di costruire un'automazione IA end-to-end:
 - integrazione API (Telegram Bot API + OpenRouter)
 - containerizzazione e orchestrazione (Docker Compose)
 - gestione webhook HTTPS (ngrok tunneling)
@@ -167,4 +167,4 @@ MIT License - vedi file `LICENSE` per dettagli.
 ---
 
 _Questo progetto è stato sviluppato come dimostrazione pratica di competenze in
-automazione AI, containerizzazione e integrazione API._
+automazione IA, containerizzazione e integrazione API._
