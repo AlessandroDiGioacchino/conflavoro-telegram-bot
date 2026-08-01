@@ -1,5 +1,5 @@
 # 🤖 Agente IA Conflavoro
-Assistente conversazionale Telegram per rispondere a domande su documenti
+Assistente IA per Telegram che risponde a domande su documenti
 istituzionali, sviluppato con **n8n**, **Docker** e **LLM open-source**
 via OpenRouter.
 
@@ -50,8 +50,7 @@ Dimostrare la capacità di costruire un'automazione IA end-to-end:
 
 ### 1. Clona il repository
 ```bash
-git clone https://github.com/AlessandroDiGioacchino/conflavoro-telegram-bot.git
-cd conflavoro-telegram-bot
+git clone https://github.com/AlessandroDiGioacchino/agente-ia-conflavoro.git
 ```
 
 ### 2. Configura le variabili d'ambiente
