@@ -19,19 +19,19 @@ Dimostrare la capacità di costruire un'automazione IA end-to-end:
 
 ## 🏗️ Architettura
 ```
-[Telegram user] 
-    ↓ (message)
-[n8n: Telegram trigger] 
+[Utente Telegram] 
+    ↓ (messaggio)
+[n8n: Telegram Trigger] 
     ↓
-[n8n: Set node - knowledge base context]
+[n8n: Edit Fields (knowledge base)]
     ↓
-[n8n: HTTP request - OpenRouter API]
-    ↓ (JSON payload con prompt di sistema)
+[n8n: HTTP Request (OpenRouter API)]
+    ↓ (Payload JSON con prompt di sistema)
 [LLM: Llama 3.2 / Gemma 2 / Qwen 2.5]
     ↓
-[n8n: Telegram send message]
-    ↓
-[Telegram user] ← (response)
+[n8n: Telegram sendMessage]
+    ↓ (risposta)
+[Utente Telegram]
 ```
 
 ### Componenti chiave
